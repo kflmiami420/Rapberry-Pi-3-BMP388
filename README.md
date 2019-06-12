@@ -69,6 +69,18 @@ git clone https://github.com/adafruit/Adafruit_CircuitPython_BMP3XX.git
 
 ---------------------------------------------------
 
+*
+*
+* To install for current user:</p>
+<div class="highlight highlight-source-shell"><pre>pip3 install adafruit-circuitpython-bmp3xx</pre></div>
+<p>To install system-wide (this may be required in some cases):</p>
+<div class="highlight highlight-source-shell"><pre>sudo pip3 install adafruit-circuitpython-bmp3xx</pre></div>
+<p>To install in a virtual environment in your current project:</p>
+<div class="highlight highlight-source-shell"><pre>mkdir project-name <span class="pl-k">&amp;&amp;</span> <span class="pl-c1">cd</span> project-name
+python3 -m venv .env
+<span class="pl-c1">source</span> .env/bin/activate
+pip3 install adafruit-circuitpython-bmp3xx</pre></div>
+
 
 
 <!--                 _
