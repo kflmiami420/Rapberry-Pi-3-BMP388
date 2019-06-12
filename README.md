@@ -1,8 +1,5 @@
 # Rapberry-Pi-3-BMP388
 
-# Raspberry Pi 3 & Pi Zero W  Adafruit BMP388 Temp-Pressure-Altitudesensor
-
-
 <img src="https://cdn-shop.adafruit.com/970x728/3966-00.jpg" height="300"/><img src="https://cdn-shop.adafruit.com/1200x900/3966-02.jpg" height="300"/>
 
 <div class="content">
